@@ -1,4 +1,4 @@
-FROM ruby:3.0.5
+FROM ruby:bookworm
 
 RUN gem install bundler:2.4.7
 
